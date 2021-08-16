@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "jest": "^27.0.6",
+    "supertest": "^6.1.5"
+  },
+  "name": "401-data-structures-and-algorithms",
+  "description": "## 401 Data Structures, Code Challenges",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IbrahemSarayrah/401-data-structures-and-algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IbrahemSarayrah/401-data-structures-and-algorithms/issues"
+  },
+  "homepage": "https://github.com/IbrahemSarayrah/401-data-structures-and-algorithms#readme"
+}
