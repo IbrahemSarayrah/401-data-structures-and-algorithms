@@ -1,6 +1,10 @@
 'use strict';
 
-let input = [2, 4, 6, -8]
+let input1 = [2, 4, 6, -8]
+
+let input2 = [42,8,15,23,42]
+
+let input3 = ['a','b','d','e']
 
 let insertShiftArray = (array, value) => {
 
@@ -18,8 +22,12 @@ let insertShiftArray = (array, value) => {
     return output;
 }
 
-insertShiftArray(input, 5)
+insertShiftArray(input1, 5)
 
-console.log(insertShiftArray(input, 5));
+console.log(insertShiftArray(input1, 5));
+
+console.log(insertShiftArray(input2, 16));
+
+console.log(insertShiftArray(input3, 'c'));
 
 module.exports = insertShiftArray
