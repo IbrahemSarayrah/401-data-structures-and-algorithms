@@ -1,4 +1,4 @@
-# Binary Search of Sorted Array
+# matrix
 
 * Write a function called matrix which takes in 1 parameters array, and add up the sum of each row in a matrix of arbitrary size, and return an array with sum of numbers inside each row of the matrix
 
