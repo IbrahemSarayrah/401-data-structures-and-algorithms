@@ -14,7 +14,7 @@
 | Code Challenge-01  | [ReadMe]() |
 | Code Challenge-02   | [ReadMe](code-challenges/array-insert-shift/README.md) |
 | Code Challenge-03   | [ReadMe](code-challenges/array-binary-search/README.md) |
-| Code Challenge   | [ReadMe]() |
+| Code Challenge-04   | [ReadMe](code-challenges/class-04/README.md) |
 | Code Challenge   | [ReadMe]() |
 | Code Challenge   | [ReadMe]() |
 | Code Challenge   | [ReadMe]() |
