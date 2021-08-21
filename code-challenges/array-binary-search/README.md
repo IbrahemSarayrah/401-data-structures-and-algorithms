@@ -8,6 +8,6 @@
 
 ## Approach & Efficiency
 
-* for loop over the input to check
+* while loop will repeat the process until it ends
 
-* if statment will check if the search key equal to the value in the array
+* if statment allows to divide the search in half each time we look for a target value
