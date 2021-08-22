@@ -16,7 +16,7 @@
 | Code Challenge-03   | [ReadMe](code-challenges/array-binary-search/README.md) |
 | Code Challenge-04   | [ReadMe](code-challenges/class-04/README.md) |
 | Code Challenge-05   | [ReadMe](linked-list/README.md) |
-| Code Challenge   | [ReadMe]() |
+| Code Challenge-06   | [ReadMe](code-challenges/linked-list-insertions/README.md) |
 | Code Challenge   | [ReadMe]() |
 | Code Challenge   | [ReadMe]() |
 | Code Challenge   | [ReadMe]() |
