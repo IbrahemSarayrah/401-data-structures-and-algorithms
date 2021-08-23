@@ -6,6 +6,10 @@
 
 * to create a Node class that has properties for the value stored in the Node, and a pointer to the next Node, and create a Linked List class and the class contain insert includes and to string that representing all the values in the Linked List
 
+## Whiteboard Process
+
+![linked-list](./img/linked-list.PNG)
+
 ## Approach & Efficiency
 
 * Create a Node class
