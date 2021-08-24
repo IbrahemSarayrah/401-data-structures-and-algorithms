@@ -18,7 +18,7 @@
 | Code Challenge-05   | [ReadMe](linked-list/README.md) |
 | Code Challenge-06   | [ReadMe](code-challenges/linked-list-insertions/README.md) |
 | Code Challenge-07   | [ReadMe](code-challenges/linked-list-kth/README.md) |
-| Code Challenge   | [ReadMe]() |
+| Code Challenge-08   | [ReadMe](code-challenges/linked-list-zip/README.md) |
 | Code Challenge   | [ReadMe]() |
 | Code Challenge   | [ReadMe]() |
 | Code Challenge   | [ReadMe]() |
