@@ -20,8 +20,8 @@
 | Code Challenge-07   | [ReadMe](code-challenges/linked-list-kth/README.md) |
 | Code Challenge-08   | [ReadMe](code-challenges/linked-list-zip/README.md) |
 | Code Challenge-10   | [ReadMe](code-challenges/stack-and-queue/README.md) |
-| Code Challenge   | [ReadMe]() |
-| Code Challenge   | [ReadMe]() |
+| Code Challenge-11   | [ReadMe](code-challenges/stack-queue-pseudo/README.md) |
+| Code Challenge-12   | [ReadMe](code-challenges/stack-queue-animal-shelter/README.md) |
 | Code Challenge   | [ReadMe]() |
 | Code Challenge   | [ReadMe]() |
 | Code Challenge   | [ReadMe]() |
