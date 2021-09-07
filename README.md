@@ -24,8 +24,8 @@
 | Code Challenge-12   | [ReadMe](code-challenges/stack-queue-animal-shelter/README.md) |
 | Code Challenge-13   | [ReadMe](code-challenges/stack-queue-brackets/README.md) |
 | Code Challenge-15   | [ReadMe](code-challenges/trees/README.md) |
-| Code Challenge   | [ReadMe]() |
-| Code Challenge   | [ReadMe]() |
-| Code Challenge   | [ReadMe]() |
+| Code Challenge-16   | [ReadMe](code-challenges/tree-max/README.md) |
+| Code Challenge-17   | [ReadMe](code-challenges/tree-breadth-first/README.md) |
+| Code Challenge-18   | [ReadMe](code-challenges/tree-fizz-buzz/README.md) |
 | Code Challenge   | [ReadMe]() |
 | Code Challenge   | [ReadMe]() |
