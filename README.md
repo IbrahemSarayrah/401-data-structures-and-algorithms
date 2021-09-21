@@ -27,5 +27,12 @@
 | Code Challenge-16   | [ReadMe](code-challenges/tree-max/README.md) |
 | Code Challenge-17   | [ReadMe](code-challenges/tree-breadth-first/README.md) |
 | Code Challenge-18   | [ReadMe](code-challenges/tree-fizz-buzz/README.md) |
+| Code Challenge-26   | [ReadMe](code-challenges/insertionSort/README.md) |
+| Code Challenge-27   | [ReadMe](code-challenges/mergeSort/README.md) |
+| Code Challenge-28   | [ReadMe](code-challenges/quickSort/README.md) |
+| Code Challenge   | [ReadMe]() |
+| Code Challenge   | [ReadMe]() |
+| Code Challenge   | [ReadMe]() |
+| Code Challenge   | [ReadMe]() |
 | Code Challenge   | [ReadMe]() |
 | Code Challenge   | [ReadMe]() |
