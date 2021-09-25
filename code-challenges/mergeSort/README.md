@@ -4,7 +4,20 @@
 
 ## Whiteboard Process
 
+* ![Merge sort](./img/mergeSort.PNG)
+
+## Trace The Algorithm
+
+* ![trace](./img/trace.PNG)
+
 ## Approach & Efficiency
+
+* create function mergeSort
+* condition to find the middle point to divide the array into two halves
+* Call mergeSort for first half
+* Call mergeSort for second half
+* create a merge function
+* Merge the two halves using the merge function
 
 ## Solution
 
